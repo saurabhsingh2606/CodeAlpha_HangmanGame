@@ -135,9 +135,9 @@ WORDS = ["python", "developer", "hangman", "keyboard", "algorithm"]
 
 ## 👨‍💻 Author
 
-**Your Name**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/YourUsername)  
+Saurabh Singh Tanwar  
+🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-singh-a23909290?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+🐙 [GitHub](https://github.com/saurabhsingh2606)  
 
 ---
 
